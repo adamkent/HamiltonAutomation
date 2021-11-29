@@ -1,0 +1,6 @@
+Root Sample ID,Plate,Well,Result,Date Tested,Lab ID,testKit,CH1-Target,CH1-Result,CH1-Cq,CH2-Target,CH2-Result,CH2-Cq,CH3-Target,CH3-Result,CH3-Cq,CH4-Target,CH4-Result,CH4-Cq
+VVV57721823_ELUTE00599999_A12,ELUTE00599999,A12,Positive,09/09/2021 13:52:23 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+VVV15267379_ELUTE00599999_A01,ELUTE00599999,A01,Positive,09/09/2021 13:52:23 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+VVV85994569_ELUTE00599999_F03,ELUTE00599999,F03,Positive,09/09/2021 13:52:23 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+VVV90111557_ELUTE00599999_F01,ELUTE00599999,F01,Positive,09/09/2021 13:52:23 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+VVV20866899_ELUTE00599999_F02,ELUTE00599999,F02,Positive,09/09/2021 13:52:23 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown

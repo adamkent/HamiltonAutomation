@@ -1,0 +1,3 @@
+Root Sample ID,Plate,Well,Result,Date Tested,Lab ID,testKit,CH1-Target,CH1-Result,CH1-Cq,CH2-Target,CH2-Result,CH2-Cq,CH3-Target,CH3-Result,CH3-Cq,CH4-Target,CH4-Result,CH4-Cq
+VVV69209651_ELUTE00299999_E07,ELUTE00299999,E07,Positive,09/09/2021 13:52:22 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+VVV67517745_ELUTE00299999_G03,ELUTE00299999,G03,Positive,09/09/2021 13:52:22 UTC,LML,ePCR,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
